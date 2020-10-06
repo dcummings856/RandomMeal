@@ -1,0 +1,61 @@
+html {
+background-color: rgb(43, 88, 82);
+}
+
+.title {
+font-family: "Baloo Tamma 2";
+color: rgb(102, 112, 56);
+font-size: 32px;
+text-align: center;
+cursor: default;
+}
+
+.breakfast {
+font-family: "Oxygen";
+color: rgb(40, 100, 89);
+background-color: rgb(153, 152, 75, .7);
+font-size: 24px;
+text-align: center;
+cursor: pointer;
+padding: 20px;
+margin: 10px 650px;
+border-radius: 10%;
+}
+
+.lunch {
+font-family: "Oxygen";
+color: rgb(19, 102, 84);
+background-color: rgb(163, 121, 30, .7);
+font-size: 24px;
+text-align: center;
+cursor: pointer;
+padding: 20px;
+margin: 20px 650px;
+border-radius: 10%;
+}
+
+.dinner {
+font-family: "Oxygen";
+color: rgb(71, 99, 99);
+background-color: rgb(150, 62, 3, .7);
+font-size: 24px;
+text-align: center;
+cursor: pointer;
+padding: 20px;
+margin: 20px 650px;
+border-radius: 10%;
+}
+
+.retry {
+font-family: "Oxygen";
+color: rgb(40, 133, 71);
+background-color: rgb(74, 49, 80);
+font-size: 24px;
+text-align: center;
+cursor: pointer;
+position: relative;
+top: 40px;
+padding: 10px;
+margin: 20px 675px;
+border-radius: 10%;
+}
